@@ -1,0 +1,16 @@
+.norecoil-proj {
+  border: 4px dashed var(--bs-primary);
+  border-radius: 12px;
+  width: 628px;
+  height: 80px;
+  background-color: transparent;
+}
+
+.norecoil-proj:hover {
+  border: 4px dashed var(--bs-primary);
+  border-radius: 12px;
+  width: 628px;
+  height: 80px;
+  background-color: #252525;
+}
+

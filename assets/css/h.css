@@ -1,0 +1,20 @@
+.pasta {
+  color: white;
+  border-bottom-style: none;
+}
+
+.pasta:hover {
+  color: white;
+  border-bottom: var(--bs-blue);
+  border-bottom-width: 3px;
+  border-bottom-style: dotted;
+}
+
+.unify {
+  color: white;
+}
+
+.unify:hover {
+  color: var(--bs-blue);
+}
+
